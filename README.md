@@ -245,9 +245,9 @@ If I were to continue developing the project, I would explore:
 
 **ArtStation:** [Ethereal Woods: An Unreal Journey](https://www.artstation.com/artwork/xDgmDW)
 
-**GitHub:** [Repository link]
+**GitHub:** [[Repository link](https://github.com/IamRamanjeet/ethereal-woods-level-design-case-study)]
 
-**LinkedIn:** [Profile link]
+**LinkedIn:** [www.linkedin.com/in/ramanjeetarneja]
 
 ---
 
