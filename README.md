@@ -74,7 +74,6 @@ The environment was therefore approached not simply as a collection of assets, b
 
 ## 01 — Initial Concept
 
-[Insert concept / initial reference / planning image]
 
 The initial stage focused on establishing the visual direction and identifying the type of environment I wanted to create.
 
@@ -91,7 +90,6 @@ The main considerations were:
 
 ## 02 — Blockout & Spatial Structure
 
-[Insert blockout image]
 
 The environment was developed from a basic spatial structure before moving toward the final presentation.
 
@@ -109,7 +107,6 @@ The objective was to establish the underlying structure before relying on visual
 
 ## 03 — Environment Composition
 
-[Insert comparison images]
 
 Once the spatial structure was established, environmental assets were introduced to develop the composition.
 
@@ -144,7 +141,6 @@ This project gave me an opportunity to explore how these elements can work toget
 
 ## 05 — Lighting
 
-[Insert lighting comparison]
 
 Lighting was used not only for atmosphere but also as a compositional tool.
 
@@ -179,7 +175,6 @@ Where relevant, implementation examples are documented separately in this reposi
 
 # Optimisation
 
-[Insert evidence if available]
 
 Real-time environments require a balance between visual quality and performance.
 
@@ -197,8 +192,6 @@ The goal was to maintain the intended visual quality while keeping the environme
 ---
 
 # Final Result
-
-[Insert strongest final image]
 
 The final environment brings together the spatial structure, environmental composition, lighting and technical implementation developed throughout the project.
 
