@@ -253,6 +253,6 @@ If I were to continue developing the project, I would explore:
 
 ## About Me
 
-I am developing toward a career in **Game and Level Design**, with supporting experience in Unreal Engine, environment art, real-time 3D, visual scripting and technical production.
+I am developing toward a career in **Game Designer, Level & System Design**, with supporting experience in Unreal Engine, environment art, real-time 3D, visual scripting and technical production.
 
 My portfolio focuses on demonstrating not only what I create, but **how I approach design problems, iterate on ideas and communicate my decisions.**
