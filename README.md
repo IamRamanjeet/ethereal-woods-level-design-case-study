@@ -203,10 +203,10 @@ The goal was to maintain the intended visual quality while keeping the environme
 The final environment brings together the spatial structure, environmental composition, lighting and technical implementation developed throughout the project.
 
 **ArtStation:**
-[Ethereal Woods: An Unreal Journey](https://www.artstation.com/artwork/xDgmDW)
+[https://www.artstation.com/artwork/xDgmDW]
 
 **Portfolio:**
-[Portfolio](https://hiramanjeet3d.framer.website/work)]
+[https://hiramanjeet3d.framer.website/work]
 
 ---
 
@@ -243,9 +243,9 @@ If I were to continue developing the project, I would explore:
 
 ## Portfolio
 
-**ArtStation:** [Ethereal Woods: An Unreal Journey](https://www.artstation.com/artwork/xDgmDW)
+**ArtStation:** [https://www.artstation.com/artwork/xDgmDW}
 
-**GitHub:** [[Repository link](https://github.com/IamRamanjeet/ethereal-woods-level-design-case-study)]
+**GitHub:** [https://github.com/IamRamanjeet/ethereal-woods-level-design-case-study]
 
 **LinkedIn:** [www.linkedin.com/in/ramanjeetarneja]
 
